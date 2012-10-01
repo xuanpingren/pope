@@ -1,0 +1,15 @@
+#include <windows.h>
+#include "resource.h"
+
+IDD_ABOUTBOX DIALOG DISCARDABLE 140, 40, 136, 70
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "How to use"
+FONT 8, "MS Shell Dlg"
+BEGIN
+    DEFPUSHBUTTON "&Close", IDOK, 58, 52, 24, 14
+    /* CTEXT "Pope Events", 101, 22, 6, 90, 8 */
+    CTEXT "Left click the icon to open event file", 102, 10, 20, 120, 8
+    /* CTEXT "Right click the icon to exit", 103, 10, 30, 130, 8 */
+END
+
+IDI_MYICON ICON "myicon.ico"
