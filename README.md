@@ -14,11 +14,17 @@ event description must be seperated by a comma (;).  Below are some
 examples of valid format:
 
 	 10.2 6pm; physics quiz
+
 	 9:30am; test
+
 	 2012..10.3 2pm; meeting; 1s, 12s, 1t
 
 5.  1s : notify me 1 hour   in advance
+
     12s: notify me 12 hours in advance
+
     1t:  notify me 1 day    in advance
+
     1y:  notify me 1 month  in advance
+
     1n:  notify me 1 year   in advance
