@@ -1,0 +1,4 @@
+% Remove % from the following lines to take effect:
+% 2012..01.30 10am; class
+% 1.30 7:23pm; test
+% 7:30pm; dinner
